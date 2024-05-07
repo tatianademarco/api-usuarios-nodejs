@@ -8,12 +8,6 @@ API em Node.js que permite a criação, leitura, atualização e exclusão de us
 - Mongoose
 - Jest
 
-## Pré-requisitos
-
-Antes de começar, verifique se você atende aos seguintes requisitos:
-- Node.js e npm instalados
-- Cluster no MongoDB em execução
-
 ## Executando o Projeto
 
 Para executar o projeto, siga estas etapas:
